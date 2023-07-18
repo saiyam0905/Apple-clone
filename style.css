@@ -1,0 +1,202 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap");
+
+/* font-family: 'Poppins', sans-serif; */
+
+img.search {
+  width: 56px;
+}
+
+img.cart {
+  width: 56px;
+}
+
+img.logo {
+  width: 29px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #161617cc;
+  height: 42px;
+  position: fixed;
+}
+
+nav ul {
+  display: flex;
+  padding: 8px 22px;
+  width: 100%;
+  margin: -2px -4px;
+  cursor: pointer;
+  height: 63px;
+}
+
+nav li {
+  line-height: 1;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  color: #c7c2c2;
+  font-family: "Poppins", sans-serif;
+  margin: 16px;
+  font-size: 13px;
+  font-weight: 400;
+  padding: 0px;
+  letter-spacing: -0.01em;
+  height: 0px;
+}
+
+div.iphone14-pro {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+p.maintext {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap-reverse;
+  font-family: "Poppins", sans-serif;
+  margin-top: 24px;
+  font-size: 38px;
+  line-height: 6.083;
+  font-weight: bold;
+  color: aliceblue;
+  background-color: black;
+}
+
+p.secondtext {
+  flex-wrap: wrap-reverse;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+  color: aliceblue;
+  background-color: black;
+  font-size: 24px;
+  line-height: 2.16667;
+  letter-spacing: 0.009em;
+  margin-top: -103px;
+}
+
+div#hyper-links {
+  background: black;
+}
+
+p.top-line {
+  margin-top: 45px;
+  margin-bottom: -19px;
+  font-size: 14px;
+  display: inline-block;
+}
+a.hyp-link {
+  margin: 0 21px;
+  color: #0b6dce;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+a.zero-hyp {
+  color: #0b6dce;
+}
+a.first-hyp {
+  margin-left: 373px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  color: #2997ff;
+  font-size: 19px;
+}
+
+img.iphones {
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+}
+a.sec-hyp {
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  margin: 0 20px;
+  color: #2997ff;
+  font-size: 19px;
+}
+
+a.first-hyp:hover {
+  text-decoration: underline;
+}
+a.sec-hyp:hover {
+  text-decoration: underline;
+}
+
+
+section.sec2{
+
+/* height: 50vh; */
+display: flex;
+flex-direction: column;
+background-color: #35283c;
+align-items: center;
+margin-top: 35px;
+color: whitesmoke;
+
+}
+
+p.sec2title{
+
+  font-size: 38px;
+  font-weight: bold; 
+  font-family: 'Poppins', sans-serif;
+}
+
+p.sec2sub{
+
+  font-family: 'Poppins', sans-serif;
+  color: #fdc1ea;
+  margin-bottom: 10px ;
+}
+
+/* div.2ndlink1{
+
+
+} */
+
+a.first-hyp-link {
+  
+  margin-left: 399px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  color: #2997ff;
+  font-size: 19px;
+}
+
+a.first-hyp-link:hover{
+
+  text-decoration: underline;
+}
+
+a.sec-hyp-link {
+
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  color: #2997ff;
+  font-size: 19px;
+}
+
+
+a.sec-hyp-link:hover{
+
+  text-decoration: underline;
+}
+
+img.iphone2 {
+  width: 53%;
+  /* height: 50vh; */
+  margin: 10px 225px;
+}
